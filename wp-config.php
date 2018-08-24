@@ -29,7 +29,7 @@ define('DB_USER', 'id6730027_akirastore');
 define('DB_PASSWORD', '0843213453');
 
 /** MySQL hostname */
-define('DB_HOST', 'files.000webhost.com');
+define('DB_HOST', 'databases.000webhost.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
