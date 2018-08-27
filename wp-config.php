@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'akirastoreshop');
+define('DB_NAME', 'sql12253835');
 
 /** MySQL database username */
-define('DB_USER', 'akirastoreshop');
+define('DB_USER', 'sql12253835');
 
 /** MySQL database password */
-define('DB_PASSWORD', '0843213453');
+define('DB_PASSWORD', 'Tmvee3VmQe');
 
 /** MySQL hostname */
-define('DB_HOST', 'db4free.net');
+define('DB_HOST', 'sql12.freesqldatabase.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
