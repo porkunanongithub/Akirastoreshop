@@ -29,7 +29,7 @@ define('DB_USER', 'akirainth1_store');
 define('DB_PASSWORD', 'airI6X5uH2');
 
 /** MySQL hostname */
-define('DB_HOST', '122.155.18.18');
+define('DB_HOST', 'edu1.pathosting.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
