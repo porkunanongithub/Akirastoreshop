@@ -29,7 +29,7 @@ define('DB_USER', 'andamans');
 define('DB_PASSWORD', '0843213453');
 
 /** MySQL hostname */
-define('DB_HOST', '27.254.140.170');
+define('DB_HOST', 'ssd-wp27.nakhonitech.com:8443');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
